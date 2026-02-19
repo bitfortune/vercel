@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^go/?$ https://pseoroute.net/Vf4T42 [R=301,L]
